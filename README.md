@@ -1,2 +1,3 @@
-# Phase_Controller
-Phase control algorithm for multi rotor system
+# Development of Phase Controller for Multi-Rotor Systems
+
+The phase offset between propellers affect the noise and vibrations in aerial vehicles that use multi-rotor systems. In this work, I developed and validated a phase controller for multi-rotor systems. I tested the proposed phase control algorithm across various rotor configurations, including a single rotor, side-by-side rotors, and co-rotating co-axial rotors. The experimental results demonstrate that the proposed phase control algorithm can maintain phase angle changes within 1 degree for up to 100 revolutions in all considered rotor configurations. Details regarding the algorithm, experimental setup and implementation can be found in https://arc.aiaa.org/doi/10.2514/6.2024-4290 .
